@@ -15,3 +15,6 @@ Please try/answer the following methods/questions:
 4 Please multilable your responses and solve the overfitting problem (if there is one).
 
 5 Please try to extract linkedin profile images, categorize them using the best prediction model that you have just train and show your accuracy. (Bonus)  
+
+
+To submit the challenge, please put your work in a jupyter notebook where you explain the solving process from preparing the data, modelling, visualizing and interpreting your results, and then email us the link to it. Thank you.
